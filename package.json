@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/doshprompt/grunt-html-angular-prepare",
   "dependencies": {
-      "lodash": "^2.4.1",
+      "lodash": "^2.4.1"
   },
   "devDependencies": {
       "grunt": "^0.4.4",
