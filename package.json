@@ -1,6 +1,6 @@
 {
   "name": "grunt-html-angular-prepare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prepare repo codebase for angularjs html validation",
   "author": "Rahul Doshi",
   "license": "MIT",
@@ -31,12 +31,14 @@
     "url": "https://github.com/doshprompt/grunt-html-angular-prepare/issues"
   },
   "homepage": "https://github.com/doshprompt/grunt-html-angular-prepare",
+  "dependencies": {
+      "lodash": "^2.4.1",
+  },
   "devDependencies": {
       "grunt": "^0.4.4",
       "grunt-contrib-clean": "^0.5.0",
       "grunt-contrib-nodeunit": "^0.3.3",
       "grunt-html-angular-validate": "^0.3.0",
-      "lodash": "^2.4.1",
       "matchdep": "^0.3.0"
   }
 }
