@@ -1,4 +1,5 @@
-# grunt-html-angular-prepare
+grunt-html-angular-prepare [![Build Status](https://travis-ci.org/doshprompt/grunt-html-angular-prepare.svg?branch=master)](https://travis-ci.org/doshprompt/grunt-html-angular-prepare)
+==========================
 
 > A grunt task for dynamically building up a list of custom directives in use.
 
