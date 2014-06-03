@@ -1,4 +1,5 @@
 # grunt-html-angular-prepare
+
 [![Build Status](https://travis-ci.org/doshprompt/grunt-html-angular-prepare.svg?branch=master)](https://travis-ci.org/doshprompt/grunt-html-angular-prepare)
 [![NPM version](https://badge.fury.io/js/grunt-html-angular-prepare.svg)](http://badge.fury.io/js/grunt-html-angular-prepare)
 
