@@ -1,11 +1,12 @@
 # grunt-html-angular-prepare
 [![Build Status](https://travis-ci.org/doshprompt/grunt-html-angular-prepare.svg?branch=master)](https://travis-ci.org/doshprompt/grunt-html-angular-prepare)
 [![NPM version](https://badge.fury.io/js/grunt-html-angular-prepare.svg)](http://badge.fury.io/js/grunt-html-angular-prepare)
-==========================
 
-> A grunt task for dynamically building up a list of custom directives in use.
+___
 
-Used in conjunction with the excellent [grunt-html-angular](https://www.npmjs.org/package/grunt-html-angular-validate)
+*A grunt task for dynamically building up a list of custom directives in use.*
+
+> Used in conjunction with the excellent [grunt-html-angular](https://www.npmjs.org/package/grunt-html-angular-validate)
 
 ## Community
 
