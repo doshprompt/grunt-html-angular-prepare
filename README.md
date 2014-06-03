@@ -56,7 +56,7 @@ All you need to do is specify the files that contain directive declarations as t
 ## Run Tests
 
 		> npm install
-		> grunt test
+		> npm test
 
 ## Contributing
 
